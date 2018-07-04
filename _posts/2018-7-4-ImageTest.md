@@ -5,4 +5,4 @@ date:   2018-07-04 22:27:00
 categories: jekyll update
 ---
 Image upload Test
-![ex_screenshot](./img/europe-3483539_1920.jpg)
+https://github.com/iamjunyoung/iamjunyoung.github.io/blob/master/images/europe-3483539_1920.jpg
